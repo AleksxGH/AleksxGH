@@ -18,7 +18,6 @@
 
 ## GitHub Stats
 
-<div align="center">
 <a href="https://github.com/AleksxGH">
   <img
     height="180em"
