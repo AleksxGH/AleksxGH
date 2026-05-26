@@ -16,6 +16,22 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge\&logo=visualstudiocode\&logoColor=5EEAD4)
 ![Markdown](https://img.shields.io/badge/Markdown-0F172A?style=for-the-badge\&logo=markdown\&logoColor=5EEAD4)
 
+## GitHub Stats
+
+<div align="center">
+<a href="https://github.com/AleksxGH">
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=AleksxGH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&icon_color=5EEAD4&title_color=5EEAD4&text_color=A7F3D0"
+  />
+
+<img
+ height="180em"
+ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AleksxGH&layout=compact&langs_count=8&theme=algolia&title_color=5EEAD4&text_color=A7F3D0"
+/> </a>
+
+</p>
+
 
 ## Philosophy
 
