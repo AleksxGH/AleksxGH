@@ -7,14 +7,15 @@
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=5EEAD4)
 ![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge\&logo=cplusplus\&logoColor=5EEAD4)
 ![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge\&logo=csharp\&logoColor=5EEAD4)
-![Kotlin](https://img.shields.io/badge/Kotlin-0F172A?style=for-the-badge\&logo=kotlin\&logoColor=5EEAD4)
 
 ### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=5EEAD4)
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge\&logo=github\&logoColor=5EEAD4)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge\&logo=visualstudiocode\&logoColor=5EEAD4)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-0F172A?style=for-the-badge\&logo=markdown\&logoColor=5EEAD4)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## GitHub Stats
 
